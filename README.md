@@ -1,6 +1,10 @@
 
 ###  Team kushal koder
 
+### GlobGliders
+
+GlobGliders is a cutting-edge travel platform crafted to empower users in seamlessly planning and booking travel packages to diverse destinations. Offering a user-centric experience, it serves as a one-stop solution for travelers, akin to leading industry platforms.
+
 ### Team Members:
 - Abhay Kawle fw28_176
 - Revanth Amama fw29_010
