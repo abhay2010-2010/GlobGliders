@@ -18,8 +18,8 @@ HTML | CSS | SASS | Bootstrap || JavaScript
 
 ### Project Link
 
-- Web page link: https://team-kushal-koder.vercel.app/
-- Github link: https://github.com/Saurabh8657/Team_kushal_koder
+- Web page link: https://globgliders.vercel.app/packages.html
+- Github link: https://github.com/abhay2010-2010/Unit-4-project
 
 Glimpse of the web page 
 <img src="/Page_Look/home1.png" alt="" />
